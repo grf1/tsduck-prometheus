@@ -29,7 +29,7 @@ docker run -d --network host tsduck-prometheus 225.0.0.1:20000,172.0.0.1,My_Serv
 
 ## Example Grafana Dashboard
 
-An example dashboard is included on the repository to get you started (dashboard.json)
+An example dashboard is included on the repository to get you started (see [dashboard.json](dashboard.json))
 
 ![screencapture-upvideodev-3000-d-KgOonCL4k-tsduck-prometheus-2023-04-12-15_36_31](https://user-images.githubusercontent.com/4109420/231584536-ada1fb35-83ea-4e6a-89b6-6b2b2b67d2e0.png)
 
